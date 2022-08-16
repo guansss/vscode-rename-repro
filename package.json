@@ -1,0 +1,11 @@
+{
+  "name": "vscode-rename-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "",
+  "license": "MIT"
+}
